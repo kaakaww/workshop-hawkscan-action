@@ -6,13 +6,13 @@ This workshop is designed to help you get started with the HawkScan in GitHub Ac
 * GitHub Actions workflows
 * StackHawk dynamic application security test (DAST) scanning
 
-You can find the slide deck for this workshop [here](https://docs.google.com/presentation/d/1zG8fjB9G7TFHzVWEUpCy184B2TdYV1Jjvtc_j2anJwc/edit?usp=sharing).
+You can find the slide deck for this workshop [here](https://docs.google.com/presentation/d/1-7b_deyZohRMp_ReShnPT50AcG-dXSLpnp4ux58MPK8).
 
 ## Prerequisites
 
 To get the most out of this workshop, make sure you have the following prerequisites before getting started.
 
-* Join us in the `#gtm-scan-workshop` channel on Slack
+* Join us in the StackHawk Discord: https://discord.gg/aQA5GUqJ7A
 * A web browser
 
 ## Step 1: Get a GitHub Account
